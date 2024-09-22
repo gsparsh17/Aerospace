@@ -1,0 +1,8 @@
+.plane{
+    transition: all 0.8s ease-out;
+}
+/* In your CSS file */
+.custom-shadow {
+    filter: drop-shadow(0 4px 10px rgba(0, 0, 0, 0.9)); /* Adjust values as needed */
+  }
+  
