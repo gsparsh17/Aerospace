@@ -2,7 +2,7 @@ import React from 'react';
 
 function Footer() {
   return (
-    <div className='relative md:top-[500px] top-[300px] w-full h-auto bg-zinc-900 text-white'>
+    <div className='relative md:top-[500px] top-[300px] w-full h-auto bg-black text-white'>
       <div className='flex flex-col md:flex-row items-start gap-[2vw] p-[5vw] md:py-[4vw] md:px-[8vw]'>
         
         {/* About Us Section */}

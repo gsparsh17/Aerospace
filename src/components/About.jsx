@@ -7,7 +7,7 @@ function About() {
   const isInView = useInView(ref, { once: true, amount: 0.3 }); // Trigger animations when 20% of the component is in view
 
   return (
-    <div ref={ref} className="w-full p-[10vw] sm:p-[8vw] bg-zinc-900 text-white relative">
+    <div ref={ref} className="w-full p-[10vw] sm:p-[8vw] bg-black text-white relative">
       
       {/* Heading Animation */}
       <motion.h1 

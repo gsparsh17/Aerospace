@@ -4,7 +4,7 @@ import logo from './OIP (15).jpeg';
 
 function LandingPage() {
   return (
-    <div data-scroll data-scroll-speed="-0.6" className='w-full bg-zinc-900 pt-2 relative md:pb-20'>
+    <div data-scroll data-scroll-speed="-0.6" className='w-full bg-black pt-2 relative md:pb-20'>
       <div className='textstructure md:mt-[6vw] mt-[20vw] px-[4vw] flex sm:flex-row flex-col justify-center items-center'>
         
         {/* Text Block */}

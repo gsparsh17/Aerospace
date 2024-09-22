@@ -38,7 +38,7 @@ function Projects() {
   const isInView = useInView(ref, { once: true, amount: 0.5 });
 
   return (
-    <div ref={ref} className='w-full relative md:top-[600px] top-[300px] md:h-[60vw] py-[4vw] bg-zinc-900'>
+    <div ref={ref} className='w-full relative md:top-[600px] top-[300px] md:h-[60vw] py-[4vw] bg-black'>
       {/* Section Title */}
       <div className='w-full px-[4vw] border-b-[1px] pb-[4vw] border-zinc-600'>
         <h1 className="text-[8vw] md:text-[4vw] font-['Neue_Montreal'] tracking-tight text-white">
